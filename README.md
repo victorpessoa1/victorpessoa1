@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @victorpessoa1
 - 👀 I’m interested in get a job as a back-end, front-end or fullstack developer
-- 🌱 I’m currently learning PHP with Laravel
+- 🌱 I’m currently learning Typescript, React and Cloud in AWS
 - 📫 How to reach me: josevitorppessoa@gmail.com // josevitorppessoa@hotmail.com

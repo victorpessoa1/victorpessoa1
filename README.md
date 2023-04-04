@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @victorpessoa1
 - 👀 I’m interested in get a job as a back-end, front-end or fullstack developer
 - 🌱 I’m currently learning PHP with Laravel
-- 📫 How to reach me: josevitorppessoa@gmail.com // +55 91 98102-0636
+- 📫 How to reach me: josevitorppessoa@gmail.com // josevitorppessoa@hotmail.com
